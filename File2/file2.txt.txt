@@ -1,0 +1,2 @@
+thisi is file2/file2.txt
+
