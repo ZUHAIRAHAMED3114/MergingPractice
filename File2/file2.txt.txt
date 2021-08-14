@@ -1,2 +1,3 @@
 thisi is file2/file2.txt
+modified file 1st time
 
